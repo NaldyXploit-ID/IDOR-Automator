@@ -1,0 +1,8 @@
+{
+  "name": "idor-automator",
+  "version": "0.1.0",
+  "description": "Demo package for IDOR-Automator",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
